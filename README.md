@@ -1,147 +1,167 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0000,70:000d00,100:0d0d0d&height=220&section=header&text=RED-SHADOW-CYBER-FORCE&fontSize=52&fontColor=ff0000&stroke=00ff41&strokeWidth=2&animation=fadeIn&fontAlignY=50&desc=IDN%20%7C%20WHITE%20CYBER%20%7C%20OFFENSIVE%20SECURITY&descSize=15&descAlignY=72&descColor=00ff41"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=1800&pause=700&color=FF0000&background=0D0D0D00&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=130&lines=%5BSYSTEM%5D+Establishing+encrypted+tunnel...;%5B%E2%9C%93%5D+Root+access+granted.+Welcome+back%2C+RSCF.;%5BWARNING%5D+Unauthorized+access+will+be+traced.;%5B*%5D+Zero-Day+loaded.+Target+locked.+Executing...;%5BALERT%5D+Intrusion+detected.+Countermeasures+deployed." alt="Typing SVG" />
+<!-- HEADER UTAMA — FULL BLOOD VENOM -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1a0000,60:0d0000,100:000000&height=280&section=header&text=%E2%98%A0%20RED%20SHADOW%20CYBER%20FORCE%20%E2%98%A0&fontSize=55&fontColor=ff0000&stroke=8b0000&strokeWidth=2&animation=fadeIn&fontAlignY=45&desc=%F0%9F%A9%B8%20WHITE%20CYBER%20IDN%20%7C%20OFFENSIVE%20SECURITY%20SINCE%202019%20%F0%9F%A9%B8&descSize=16&descAlignY=68&descColor=cc0000"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%E2%96%88%20ACTIVE%20THREAT%20%E2%96%88-ff0000?style=for-the-badge&labelColor=0d0d0d&color=ff0000&logo=hackthebox&logoColor=00ff41"/>
+<!-- TYPING ANIMATION — HORROR STYLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Creepster&size=26&duration=1500&pause=600&color=FF0000&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=130&lines=%E2%98%A0+SYSTEM+COMPROMISED.+ROOT+OBTAINED.+%E2%98%A0;%F0%9F%A9%B8+Zero-Day+Injected.+Target+Eliminated.+%F0%9F%A9%B8;%E2%9A%A0+WARNING%3A+You+Are+Being+Hunted.+%E2%9A%A0;%F0%9F%94%AA+Silent.+Precise.+Lethal.+Unstoppable.+%F0%9F%94%AA;%E2%98%A0+RED+SHADOW+%7C+WHITE+CYBER+%7C+IDN+%E2%98%A0" alt="Typing SVG" />
+
+<br/>
+
+<!-- STATUS BADGES -->
+<img src="https://img.shields.io/badge/%E2%98%A0_THREAT_LEVEL-CRITICAL-8b0000?style=for-the-badge&labelColor=000000"/>
 &nbsp;
-<img src="https://img.shields.io/badge/-%E2%96%88%20OFFENSIVE%20MODE%20%E2%96%88-00ff41?style=for-the-badge&labelColor=0d0d0d&color=00ff41&logo=kalilinux&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/%F0%9F%A9%B8_STATUS-HUNTING-ff0000?style=for-the-badge&labelColor=0d0000"/>
 &nbsp;
-<img src="https://img.shields.io/badge/-%E2%96%88%20SINCE%202019%20%E2%96%88-ff0000?style=for-the-badge&labelColor=0d0d0d&color=ff0000"/>
+<img src="https://img.shields.io/badge/%E2%9A%94_MODE-OFFENSIVE-cc0000?style=for-the-badge&labelColor=000000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%94%AA_CLASS-ELITE-8b0000?style=for-the-badge&labelColor=0d0000"/>
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+
+<!-- ANIMATED RED LINE -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+
+</div>
 
 ```
-██████╗ ███████╗██████╗     ███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗
-██╔══██╗██╔════╝██╔══██╗    ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║
-██████╔╝█████╗  ██║  ██║    ███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║
-██╔══██╗██╔══╝  ██║  ██║    ╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║
-██║  ██║███████╗██████╔╝    ███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝
-╚═╝  ╚═╝╚══════╝╚═════╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝
-                     C Y B E R   F O R C E   I D N  ·  W H I T E   C Y B E R
+ ██████╗ ███████╗██████╗     ███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗
+ ██╔══██╗██╔════╝██╔══██╗    ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║
+ ██████╔╝█████╗  ██║  ██║    ███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║
+ ██╔══██╗██╔══╝  ██║  ██║    ╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║
+ ██║  ██║███████╗██████╔╝    ███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝
+ ╚═╝  ╚═╝╚══════╝╚═════╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝
+ ░░░░░░░░░ W H I T E   C Y B E R   I D N  ·  S I N C E   2 0 1 9 ░░░░░░░░░░░░░░
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+</div>
 
 ---
 
 <div align="center">
 
-## `⚡ [ IDENTITY MATRIX ] ⚡`
+## `☠ [ IDENTITY — CLASSIFIED ] ☠`
 
 </div>
 
 ```bash
-┌──(rscf㉿red-shadow-cyber-force-idn)-[/root]
-└─$ cat /etc/identity.conf
+┌──(☠ rscf㉿RED-SHADOW-CYBER-FORCE-IDN)-[/root/classified]
+└─$ sudo cat /etc/shadow/identity.conf
 
-╔══════════════════════════════════════════════════════════════════╗
-║  OPERATOR   : RSCF - IDN                                        ║
-║  UNIT       : RED SHADOW CYBER FORCE                            ║
-║  DIVISION   : WHITE CYBER                                        ║
-║  NATION     : INDONESIA 🇮🇩                                      ║
-║  ACTIVE     : 2019 — PRESENT                                    ║
-║  CONTACT    : zyntrixtechai@gmail.com                            ║
-║  MODE       : SILENT  ·  PRECISE  ·  LETHAL                     ║
-╠══════════════════════════════════════════════════════════════════╣
-║  EXPERTISE  : Web Pentesting · API Security · Cloud Infra       ║
-║  SPECIALTY  : Zero-Days · Logic Flaws · Responsible Disclosure  ║
-║  CERTIF.    : National ✓ · International ✓                      ║
-╠══════════════════════════════════════════════════════════════════╣
-║  QUOTE      : "Automated scanners see the surface.              ║
-║               I find what lives beneath."                        ║
-╚══════════════════════════════════════════════════════════════════╝
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                               ▓
+▓   ☠  CALLSIGN  : RSCF — RED SHADOW CYBER FORCE               ▓
+▓   🩸 DIVISION  : WHITE CYBER — IDN                           ▓
+▓   ⚔  NATION    : INDONESIA 🇮🇩                               ▓
+▓   💀 ACTIVE    : 2019 — [REDACTED]                           ▓
+▓   🔪 CONTACT   : zyntrixtechai@gmail.com                     ▓
+▓                                                               ▓
+▓   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  ▓
+▓                                                               ▓
+▓   🩸 DOMAIN    : Web · API · Cloud Infrastructure            ▓
+▓   ☠  HUNT      : Zero-Days · Logic Flaws · CVE Research      ▓
+▓   💀 CERTS     : National ✓ · International ✓                ▓
+▓   🔪 STYLE     : Scanner-Proof · Human-Intelligence-Based    ▓
+▓                                                               ▓
+▓   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  ▓
+▓                                                               ▓
+▓   ☠  "I don't hack systems. I make them confess."            ▓
+▓                                                               ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
-[*] Profile loaded. Threat level: CRITICAL
+[☠] THREAT LEVEL : ██████████ CRITICAL
+[🩸] LAST SEEN   : ACTIVELY HUNTING TARGETS
+[💀] ROOT ACCESS  : GRANTED — WELCOME BACK, RSCF
 ```
 
 ---
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+</div>
 
-## `🔴 [ ATTACK SURFACE COVERAGE ] 🟢`
+<div align="center">
+
+## `🩸 [ BLOOD ON THE SCOREBOARD ] 🩸`
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="230">
+<td align="center" width="220">
 
-**`[ WEB APPLICATION ]`**
-```
-████████████████████ 98%
-```
-![](https://img.shields.io/badge/SQLi-Expert-ff0000?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/XSS-Expert-ff0000?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/SSRF-Expert-ff0000?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/IDOR-Expert-ff0000?style=flat-square&labelColor=0d0d0d)
+<img src="https://img.shields.io/badge/WEB_PENTESTING-98%25_ELITE-8b0000?style=for-the-badge&labelColor=000000"/>
 
-</td>
-<td align="center" width="230">
-
-**`[ API SECURITY ]`**
 ```
-███████████████████░ 95%
+🩸 ████████████████████ 98%
 ```
-![](https://img.shields.io/badge/REST-Expert-00ff41?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/GraphQL-Expert-00ff41?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/OAuth-Expert-00ff41?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/JWT-Expert-00ff41?style=flat-square&labelColor=0d0d0d)
+`SQLi` `XSS` `SSRF` `IDOR` `RCE`
+`LFI` `XXE` `SSTI` `CSRF`
 
 </td>
-<td align="center" width="230">
+<td align="center" width="220">
 
-**`[ CLOUD INFRA ]`**
+<img src="https://img.shields.io/badge/API_SECURITY-95%25_LETHAL-8b0000?style=for-the-badge&labelColor=000000"/>
+
 ```
-██████████████████░░ 90%
+🩸 ███████████████████░ 95%
 ```
-![](https://img.shields.io/badge/AWS-Expert-ff0000?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/GCP-Expert-ff0000?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/Azure-Expert-ff0000?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/S3-Expert-ff0000?style=flat-square&labelColor=0d0d0d)
+`REST` `GraphQL` `OAuth2` `JWT`
+`gRPC` `SOAP` `Mass Assignment`
+
+</td>
+<td align="center" width="220">
+
+<img src="https://img.shields.io/badge/CLOUD_INFRA-90%25_SHADOW-8b0000?style=for-the-badge&labelColor=000000"/>
+
+```
+🩸 ██████████████████░░ 90%
+```
+`AWS` `GCP` `Azure` `S3 Enum`
+`IAM Abuse` `Lambda` `Container`
 
 </td>
 </tr>
 <tr>
-<td align="center" width="230">
+<td align="center" width="220">
 
-**`[ ZERO-DAY HUNTING ]`**
-```
-████████████████████ 99%
-```
-![](https://img.shields.io/badge/CVE_Research-Active-00ff41?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/0day-LOADED-00ff41?style=flat-square&labelColor=0d0d0d)
+<img src="https://img.shields.io/badge/ZERO--DAY-99%25_☠-ff0000?style=for-the-badge&labelColor=0d0000"/>
 
-</td>
-<td align="center" width="230">
-
-**`[ LOGIC FLAWS ]`**
 ```
-██████████████████░░ 93%
+☠ ████████████████████ 99%
 ```
-![](https://img.shields.io/badge/Business_Logic-Elite-ff0000?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/Race_Condition-Elite-ff0000?style=flat-square&labelColor=0d0d0d)
+`CVE Research` `0day` `PoC Dev`
+`Exploit Chain` `WAF Bypass`
 
 </td>
-<td align="center" width="230">
+<td align="center" width="220">
 
-**`[ RECON / OSINT ]`**
+<img src="https://img.shields.io/badge/LOGIC_FLAWS-93%25_CRITICAL-ff0000?style=for-the-badge&labelColor=0d0000"/>
+
 ```
-███████████████████░ 96%
+☠ ██████████████████░░ 93%
 ```
-![](https://img.shields.io/badge/Subdomain-Elite-00ff41?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/Dorking-Elite-00ff41?style=flat-square&labelColor=0d0d0d)
+`Business Logic` `Race Condition`
+`Auth Bypass` `Priv Escalation`
+
+</td>
+<td align="center" width="220">
+
+<img src="https://img.shields.io/badge/RECON_%26_OSINT-96%25_PRECISION-ff0000?style=for-the-badge&labelColor=0d0000"/>
+
+```
+☠ ███████████████████░ 96%
+```
+`Subdomain` `Dorking` `Shodan`
+`ASN Recon` `Git Leaks` `OSINT`
 
 </td>
 </tr>
@@ -150,71 +170,93 @@
 ---
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+</div>
 
-## `💀 [ ARSENAL — TOOLS OF DESTRUCTION ] 💀`
+<div align="center">
 
-**`OFFENSIVE TOOLS`**
+## `💀 [ WEAPONS OF MASS EXPLOITATION ] 💀`
 
-<img src="https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/SQLMap-cc0000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Nuclei-00acd7?style=for-the-badge&logo=go&logoColor=white&labelColor=0d0d0d"/>
+**`☠ OFFENSIVE TOOLS`**
 
-**`RECON & SCANNING`**
+<img src="https://img.shields.io/badge/Burp_Suite_PRO-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0d0000"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/SQLMap-cc0000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d0000"/>
+<img src="https://img.shields.io/badge/Nuclei-00acd7?style=for-the-badge&logo=go&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Caido-8b0000?style=for-the-badge&logoColor=white&labelColor=000000"/>
 
-<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Subfinder-00ff41?style=for-the-badge&logo=semver&logoColor=0d0d0d&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/FFUF-ff0000?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Shodan-ff0000?style=for-the-badge&logoColor=white&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Amass-555555?style=for-the-badge&logoColor=white&labelColor=0d0d0d"/>
+<br/>
 
-**`LANGUAGES`**
+**`🩸 RECON & SURVEILLANCE`**
 
-<img src="https://img.shields.io/badge/Python-00ff41?style=for-the-badge&logo=python&logoColor=0d0d0d&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Bash-00ff41?style=for-the-badge&logo=gnubash&logoColor=0d0d0d&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/JavaScript-ff0000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Subfinder-ff0000?style=for-the-badge&logoColor=white&labelColor=0d0000"/>
+<img src="https://img.shields.io/badge/FFUF-8b0000?style=for-the-badge&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Shodan-cc0000?style=for-the-badge&logoColor=white&labelColor=0d0000"/>
+<img src="https://img.shields.io/badge/Amass-ff0000?style=for-the-badge&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Httpx-8b0000?style=for-the-badge&logoColor=white&labelColor=0d0000"/>
 
-**`PLATFORMS & OS`**
+<br/>
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=00ff41&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/HackTheBox-00ff41?style=for-the-badge&logo=hackthebox&logoColor=0d0d0d&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=ff0000&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0d0d"/>
+**`🔪 LANGUAGES`**
+
+<img src="https://img.shields.io/badge/Python-ff0000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Bash-cc0000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d0000"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/JavaScript-8b0000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d0000"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000"/>
+
+<br/>
+
+**`☠ PLATFORMS`**
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000000&labelColor=141D2B"/>
+<img src="https://img.shields.io/badge/TryHackMe-cc0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000"/>
 
 </div>
 
 ---
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+</div>
 
-## `📊 [ GITHUB BATTLEFIELD STATS ] 📊`
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RED-SHADOW-CYBER-FORCE-IDN&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&title_color=ff0000&icon_color=00ff41&text_color=00ff41&border_color=ff0000&border_radius=0&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RED-SHADOW-CYBER-FORCE-IDN&theme=matrix&background=0d0d0d&ring=ff0000&fire=ff0000&currStreakLabel=00ff41&sideNums=00ff41&dates=555555&border=ff0000&stroke=ff0000" width="49%"/>
+## `☠ [ BATTLEFIELD STATISTICS ] ☠`
+
+<img src="https://github-readme-stats.vercel.app/api?username=RED-SHADOW-CYBER-FORCE-IDN&show_icons=true&bg_color=000000&title_color=ff0000&icon_color=8b0000&text_color=cc0000&border_color=8b0000&border_radius=0&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=RED-SHADOW-CYBER-FORCE-IDN&background=000000&ring=ff0000&fire=8b0000&currStreakLabel=cc0000&sideNums=ff0000&dates=8b0000&border=8b0000&stroke=ff0000&sideLabels=cc0000&currStreakNum=ff0000" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RED-SHADOW-CYBER-FORCE-IDN&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&title_color=ff0000&text_color=00ff41&border_color=ff0000&border_radius=0" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RED-SHADOW-CYBER-FORCE-IDN&layout=compact&bg_color=000000&title_color=ff0000&text_color=cc0000&border_color=8b0000&border_radius=0" width="35%"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-trophy.vercel.app/?username=RED-SHADOW-CYBER-FORCE-IDN&theme=radical&no-frame=true&no-bg=true&column=5&margin-w=4" width="58%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RED-SHADOW-CYBER-FORCE-IDN&bg_color=0d0d0d&color=00ff41&line=ff0000&point=00ff41&area=true&area_color=ff000033&hide_border=false&border_color=ff0000&custom_title=RED%20SHADOW%20%7C%20ACTIVITY%20LOG" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RED-SHADOW-CYBER-FORCE-IDN&bg_color=000000&color=ff0000&line=8b0000&point=cc0000&area=true&area_color=8b000044&hide_border=false&border_color=8b0000&custom_title=%E2%98%A0%20RED%20SHADOW%20%7C%20KILL%20ACTIVITY%20LOG%20%E2%98%A0" width="96%"/>
 
 </div>
 
 ---
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+</div>
 
-## `🐍 [ CONTRIBUTION GRID — THE SNAKE FEEDS ] 🐍`
+<div align="center">
+
+## `🩸 [ THE SERPENT DEVOURS — CONTRIBUTION GRID ] 🩸`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RED-SHADOW-CYBER-FORCE-IDN/RED-SHADOW-CYBER-FORCE-IDN/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RED-SHADOW-CYBER-FORCE-IDN/RED-SHADOW-CYBER-FORCE-IDN/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RED-SHADOW-CYBER-FORCE-IDN/RED-SHADOW-CYBER-FORCE-IDN/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/RED-SHADOW-CYBER-FORCE-IDN/RED-SHADOW-CYBER-FORCE-IDN/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -222,74 +264,96 @@
 ---
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+</div>
 
-## `🏆 [ MISSION TIMELINE ] 🏆`
+<div align="center">
+
+## `🔪 [ OPERATION TIMELINE — THE BLOOD TRAIL ] 🔪`
 
 </div>
 
 ```
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║              R S C F  ·  M I S S I O N  L O G               ║
-  ╠═══════════════════════════════════════════════════════════════╣
-  ║                                                               ║
-  ║  [2019] ━━▶  INITIATED. First breach. Web vulns exposed.     ║
-  ║               ████░░░░░░░░░░░░░░░░░░  ROOKIE UNLOCKED        ║
-  ║                                                               ║
-  ║  [2020] ━━▶  ESCALATED. API surface mapped. Tokens cracked.  ║
-  ║               ████████░░░░░░░░░░░░░░  INTERMEDIATE UNLOCKED  ║
-  ║                                                               ║
-  ║  [2021] ━━▶  CERTIFIED. National recognition. Disclosed.     ║
-  ║               ████████████░░░░░░░░░░  CERTIFIED UNLOCKED     ║
-  ║                                                               ║
-  ║  [2022] ━━▶  ELEVATED. Cloud infra compromised ethically.    ║
-  ║               ████████████████░░░░░░  ADVANCED UNLOCKED      ║
-  ║                                                               ║
-  ║  [2023] ━━▶  LETHAL. Zero-days found. Intl certs acquired.   ║
-  ║               ██████████████████████  ELITE UNLOCKED         ║
-  ║                                                               ║
-  ║  [2024] ━━▶  SHADOW. Scanner-proof. Silent execution.        ║
-  ║               ██████████████████████  SHADOW LEVEL           ║
-  ║                                                               ║
-  ║  [NOW]  ━━▶  ██████████████████████  [CLASSIFIED]            ║
-  ║                                                               ║
-  ╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ☠              R S C F  ·  O P E R A T I O N  L O G               ☠  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  [2019] ━━▶ 🩸 INITIATED. First blood drawn. Web vulns exposed.        ║
+║              ████░░░░░░░░░░░░░░░░░░░░░░  ROOKIE → ACTIVATED            ║
+║                                                                          ║
+║  [2020] ━━▶ 🩸 ESCALATED. API dissected. Auth tokens shattered.        ║
+║              ████████░░░░░░░░░░░░░░░░░░  HUNTER → DEPLOYED             ║
+║                                                                          ║
+║  [2021] ━━▶ 🩸 CERTIFIED. National seal. Responsible blood spilled.    ║
+║              ████████████░░░░░░░░░░░░░░  CERTIFIED → LETHAL            ║
+║                                                                          ║
+║  [2022] ━━▶ 🩸 ELEVATED. Cloud torn open. AWS buckets bled dry.        ║
+║              ████████████████░░░░░░░░░░  ADVANCED → SHADOW             ║
+║                                                                          ║
+║  [2023] ━━▶ 🩸 ZERO-DAYS FOUND. Intl certs claimed. World noticed.     ║
+║              ████████████████████░░░░░░  ELITE → GLOBAL               ║
+║                                                                          ║
+║  [2024] ━━▶ 🩸 SHADOW LEVEL. Scanner-proof. Silent execution.          ║
+║              ██████████████████████████  ☠ TOP-TIER UNLOCKED          ║
+║                                                                          ║
+║  [NOW]  ━━▶ ██████████████████████████  ☠ [CLASSIFIED — EYES ONLY]   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+</div>
 
-## `📡 [ RESPONSIBLE DISCLOSURE ] 📡`
+<div align="center">
 
-<img src="https://img.shields.io/badge/Bug_Bounty-ACTIVELY_HUNTING-ff0000?style=for-the-badge&logo=hackerone&logoColor=00ff41&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Responsible_Disclosure-ENABLED-00ff41?style=for-the-badge&logo=openbugbounty&logoColor=0d0d0d&labelColor=0d0d0d"/>
+## `☠ [ RESPONSIBLE DISCLOSURE ] ☠`
+
+<img src="https://img.shields.io/badge/Bug_Bounty-☠_HUNTING-8b0000?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Disclosure-🩸_RESPONSIBLE-cc0000?style=for-the-badge&logo=openbugbounty&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Impact-HIGH_%26_CRITICAL-ff0000?style=for-the-badge&labelColor=0d0000"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/High_Impact-HUNTING-ff0000?style=for-the-badge&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Zero_Days-ACTIVE-ff0000?style=for-the-badge&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Logic_Flaws-SPECIALIST-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Scanner_Bypass-LETHAL-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
+
+<img src="https://img.shields.io/badge/XSS-BLOOD_DRAWN-8b0000?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/SQLi-BLOOD_DRAWN-8b0000?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/SSRF-BLOOD_DRAWN-8b0000?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/IDOR-BLOOD_DRAWN-8b0000?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/RCE-BLOOD_DRAWN-ff0000?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Auth_Bypass-BLOOD_DRAWN-ff0000?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/0day-LOADED-cc0000?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Logic_Flaws-SPECIALIST-8b0000?style=flat-square&labelColor=000000"/>
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+</div>
 
 <div align="center">
 
-> ### *`"Automated scanners see the surface. I find what lives beneath."`*
-> **— RSCF · RED SHADOW CYBER FORCE IDN · WHITE CYBER**
+<img src="https://readme-typing-svg.demolab.com?font=Creepster&size=36&duration=2500&pause=1500&color=8B0000&background=00000000&center=true&vCenter=true&width=700&height=60&lines=%E2%98%A0+SILENT.+PRECISE.+LETHAL.+%E2%98%A0" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/SILENT-●-ff0000?style=for-the-badge&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/PRECISE-●-ff0000?style=for-the-badge&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/LETHAL-●-ff0000?style=for-the-badge&labelColor=0d0d0d"/>
+> ### *`"I don't hack systems. I make them confess."`*
+> **☠ — RSCF · RED SHADOW CYBER FORCE IDN · WHITE CYBER ☠**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RED-SHADOW-CYBER-FORCE-IDN&color=ff0000&style=for-the-badge&label=SHADOW+WATCHERS&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/☠_SILENT-ACTIVE-8b0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🩸_PRECISE-ACTIVE-cc0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/💀_LETHAL-ACTIVE-ff0000?style=for-the-badge&labelColor=0d0000"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=RED-SHADOW-CYBER-FORCE-IDN&color=8b0000&style=for-the-badge&label=☠+SHADOW+WATCHERS&labelColor=000000"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0000,70:000d00,100:0d0d0d&height=120&section=footer&text=RED%20SHADOW%20%7C%20WHITE%20CYBER%20%7C%20IDN&fontSize=20&fontColor=ff0000&stroke=00ff41&strokeWidth=1&animation=fadeIn"/>
+<!-- BLOOD FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:1a0000,60:0d0000,100:000000&height=130&section=footer&text=%E2%98%A0+WHITE+CYBER+IDN+%E2%98%A0&fontSize=28&fontColor=8b0000&stroke=ff0000&strokeWidth=1&animation=fadeIn"/>
